@@ -40,6 +40,7 @@ Welcome to my GitHub repository! Below you'll find an overview of my skills and 
 - Information Technology ![IT](https://img.shields.io/badge/Information_Technology-000000?style=for-the-badge&logo=information)
 - Classic ASP ![Classic ASP](https://img.shields.io/badge/Classic_ASP-6E2594?style=for-the-badge&logo=asp&logoColor=white)
 - Azure DevOps ![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue)
+- Jira ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 - Audio Production & Editing ![Audio](https://img.shields.io/badge/Audio-FF0000?style=for-the-badge&logo=audible&logoColor=white)
 
 ## Certifications
