@@ -9,6 +9,7 @@ Welcome to my GitHub repository! Below you'll find an overview of my skills and 
 - C# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 - .NET ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Typescript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - HTML ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - CSS ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,9 +17,10 @@ Welcome to my GitHub repository! Below you'll find an overview of my skills and 
 
 ### Frameworks
 
-- Typescript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - React.js ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- React Native ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- Ionic ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### WordPress
 
@@ -27,11 +29,6 @@ Welcome to my GitHub repository! Below you'll find an overview of my skills and 
 - WP Rest API ![WP Rest API](https://img.shields.io/badge/WP_Rest_API-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)
 - Gutenberg ![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 - ACF ![ACF](https://img.shields.io/badge/ACF-005082?style=for-the-badge&logo=acf&logoColor=white)
-
-### Mobile Development
-
-- React Native ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- Ionic ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Databases
 
@@ -78,4 +75,3 @@ Welcome to my GitHub repository! Below you'll find an overview of my skills and 
 
 - [LinkedIn](https://www.linkedin.com/in/robertluczynski)
 - [Fiverr](https://www.fiverr.com/robertluczynski)
-
